@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="09-HelloWorld_Loops.vcxproj" Id="0b89a44e-88ff-4157-99a5-18ddeb233c08" />
+</Solution>

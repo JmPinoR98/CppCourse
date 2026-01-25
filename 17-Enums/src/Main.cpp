@@ -1,7 +1,7 @@
 #include <iostream>
 
 /// <summary>
-/// Enums is an structure that permits to representation of a variable
+/// An enum is a special type that represents a group of constants (unchangeable values).
 /// assigned to a DataType. This DataType can be modified or leave it by
 /// default and all the subsequent variables will have the next value.
 /// For example 1, 2, 3, 4...etc.

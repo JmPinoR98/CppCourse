@@ -1,6 +1,12 @@
 #include <iostream>
 #include "Log.h"
 
+/// <summary>
+/// Here we can see the basic function of how does the If...else statement
+/// works in C++. This statement allows to, by a condition, execute something
+/// if the condition is true o execute another code if the condition is false.
+/// </summary>
+
 int main() {
 	int x = 6;
 

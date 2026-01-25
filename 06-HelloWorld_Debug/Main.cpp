@@ -1,6 +1,10 @@
 #include <iostream>
 #include "Log.h"
 
+/// <summary>
+/// Basic Layout to see how does the Debugger Tool of Visual Studio works.
+/// </summary>
+
 int main() {
 	int a = 8;
 	a++;

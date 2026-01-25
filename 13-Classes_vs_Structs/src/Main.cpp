@@ -2,6 +2,19 @@
 
 #define LOG(X) std::cout << x << std::endl;
 
+/// <summary>
+/// Here It can be seen the difference between a Class and a Struct.
+/// A class always creates it's attributes and methods as private
+/// whereas the Struct always creates the attributes and methods
+/// as public.
+///
+/// It exists for backwards compatibility with C.
+///
+/// One way to use the Struct DataType is to use it when you only
+/// need to use and modify variables and more complex like
+/// inheritance.
+/// </summary>
+
 class Player {
 public:
 	int x, y;

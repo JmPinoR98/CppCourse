@@ -2,6 +2,12 @@
 
 #define LOG(X) std::cout << x << std::endl;
 
+/// <summary>
+/// Introduction to classes. A class is an object that can be instanced without limit
+/// and it has attributes (variables) and methods (functions). It is a cleaner and
+/// optimal way to manipulate complex variables.
+/// </summary>
+
 class Player {
 public:
 	int x, y;

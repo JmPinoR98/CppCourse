@@ -2,6 +2,15 @@
 
 #define LOG(x) std::cout << x << std::endl;
 
+/// <summary>
+/// With references it is possible to use pointers in a cleaner way. But the most utile
+/// function that I see is the capability to modify the value of a variable in a function
+/// without the need to return the result and save it in the same variable.
+/// It is not possible to create a reference without value.
+/// To change the reference is better to use Pointers
+/// </summary>
+/// <param name="value"></param>
+
 void IncrementPointer(int* value) {
 	(*value)++;
 }
